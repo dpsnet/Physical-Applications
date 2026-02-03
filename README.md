@@ -39,4 +39,9 @@ This repository contains the physical applications and experimental verification
 - [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework): Advanced theoretical models
 
 ## License
-MIT License
+CC BY 4.0 License
+---
+
+## 📚 相关文档
+
+- [项目文档中心](../Theory-Documentation) - 理论规划、概念澄清、术语标准
