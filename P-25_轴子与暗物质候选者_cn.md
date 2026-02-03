@@ -463,4 +463,4 @@ $$\omega_{soliton} = m_a \left(1 - \frac{\tau_a^2}{6}\right)$$
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Physical-Applications](https://github.com/dpsnet/Physical-Applications)

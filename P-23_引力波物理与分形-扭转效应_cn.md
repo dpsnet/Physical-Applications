@@ -468,4 +468,4 @@ $$\Delta t_{\nu-\text{GW}} \sim 10^{-20} \text{ s}$$
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Physical-Applications](https://github.com/dpsnet/Physical-Applications)

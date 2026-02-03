@@ -617,4 +617,4 @@ $$\hat{H} = \sum_{i,j} J_{ij} \sigma_i \sigma_j + \alpha \langle 0 | \hat{\tau}_
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Physical-Applications](https://github.com/dpsnet/Physical-Applications)

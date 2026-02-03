@@ -504,4 +504,4 @@ $$\frac{\omega_{n+1}}{\omega_n} = \phi^{-d_f/2}$$
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Physical-Applications](https://github.com/dpsnet/Physical-Applications)
